@@ -5,4 +5,4 @@ HOST=localhost
 DB_HOST=localhost
 DB_USER=root
 DB_PASSWORD=''
-DB_NAME=''
+DB_NAME=yt_mern
